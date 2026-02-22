@@ -1,4 +1,4 @@
-//Primer ejercicio de clases. Hacer una divicion sin usar el operador de division.
+//Primer ejercicio de clases. Hacer una division sin usar el operador de division.
 #include <iostream>
 using namespace std; 
 int main()
