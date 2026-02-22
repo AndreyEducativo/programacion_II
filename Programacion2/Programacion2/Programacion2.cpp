@@ -1,4 +1,6 @@
 //Primer ejercicio de clases. Hacer una division sin usar el operador de division.
+
+/*
 #include <iostream>
 using namespace std; 
 int main()
@@ -34,3 +36,6 @@ int main()
 
 	return 0;
 }
+*/
+
+//Segundo ejercicio de clases.  
