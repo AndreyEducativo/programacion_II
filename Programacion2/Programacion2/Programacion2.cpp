@@ -38,4 +38,24 @@ int main()
 }
 */
 
-//Segundo ejercicio de clases.  
+
+/*Segundo ejercicio de clases.Cree una solución que calcule la potencia de un conjunto de números sin utilizar
+la función pow()*/
+
+#include <iostream>
+#include "Potencia.h"
+
+using namespace std; 
+
+int main() {
+	int b, e;
+	cout << "Ingrese la base: ";
+	cin >> b;
+	cout << "Ingrese el exponente: ";
+	cin >> e;
+
+	Potencia p(b, e);
+	p.calcularPotencia();
+
+	return 0; 
+}
